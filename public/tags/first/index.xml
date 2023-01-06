@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>first on IT is fun</title>
+    <link>http://janavmakkar.com/tags/first/</link>
+    <description>Recent content in first on IT is fun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0530</lastBuildDate><atom:link href="http://janavmakkar.com/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker Commands</title>
+      <link>http://janavmakkar.com/python-cheatsheet/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0530</pubDate>
+      
+      <guid>http://janavmakkar.com/python-cheatsheet/</guid>
+      <description>Docker Commands 🐳 S.No Use Cases Commands 1. See all images present in your local machine docker images 2. Search images in docker-hub (registry) docker search MODULENAME 3. Download image from docker-hub to local machine docker pull MODULENAME 4. Run Docker (Create+Start+Name+Go Inside the Container) docker run -it --name CONTAINERNAME IMAGENAME /bin/bash 5. Check service start or not service docker status OR docker info 6. Start Container docker start CONTAINERNAME 7.</description>
+    </item>
+    
+  </channel>
+</rss>
