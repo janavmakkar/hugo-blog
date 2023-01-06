@@ -6,10 +6,9 @@ defaultTheme: auto
 categories: [cheatsheet]
 tags: ["python","cheatsheet"]
 showToc: true
-# disableThemeToggle: true
 comments: true
 cover:
-    image: /anaconda2.jpg 
+    image: posts/anaconda.jpg 
     alt: python
     # caption: Master python
 ---
@@ -18,7 +17,7 @@ cover:
 
 <!-- ![Monty Python](/anaconda2.jpg) -->
 
-<!-- ## Contents -->
+## Contents
 
 **&nbsp;&nbsp;&nbsp;** **1. Collections:** **&nbsp;** **[`List`](#list)** **,** **[`Dictionary`](#dictionary)** **,** **[`Set`](#set)** **,** **[`Tuple`](#tuple)** **,** **[`Range`](#range)** **,** **[`Enumerate`](#enumerate)** **,** **[`Iterator`](#iterator)** **,** **[`Generator`](#generator)** **.**  
 **&nbsp;&nbsp;&nbsp;** **2. Types:** **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** **[`Type`](#type)** **,** **[`String`](#string)** **,** **[`Regular_Exp`](#regex)** **,** **[`Format`](#format)** **,** **[`Numbers`](#numbers-1)** **,** **[`Combinatorics`](#combinatorics)** **,** **[`Datetime`](#datetime)** **.**  

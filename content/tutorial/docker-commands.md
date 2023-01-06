@@ -7,12 +7,10 @@ draft: false
 defaultTheme: auto
 tags: ["docker","cheatsheet"]
 showToc: true
-# disableThemeToggle: true
-
 comments: true
 cover:
-    image: /docker.png 
-    alt: python
+    image: posts/docker.png 
+    alt: docker
 
 ---
 

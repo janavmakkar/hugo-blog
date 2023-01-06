@@ -16,12 +16,12 @@ menu:
     #   url: /cheatsheet/
     #   weight: 20
     - identifier: categories
-      name: Categories
+      name: Categories 🛒
       url: /categories/
       weight: 10
       # - how-to's, cheatsheets, advice, problem-solving
     - identifier: all-posts
-      name: All Posts
+      name: All Posts 🦚
       url: /all-posts/
       weight: 30
     - identifier: tags
@@ -31,8 +31,8 @@ menu:
 
 params:
     homeInfoParams:
-        Title: Hi there 👋
-        Content: Welcome to Janav's blog
+        Title: Welcome to Janav's blog 
+        Content: 👇 Feel free to connect with me 
 
     socialIcons: # optional
         - name: "Linkedin"
@@ -46,7 +46,7 @@ params:
     ShowBreadCrumbs: true
     ShowShareButtons: [“linkedin”, “twitter”]
     ShowReadingTime: true
-
+    ShowCodeCopyButtons: true
 
     assets:
         favicon: /favicon/favicon.ico
