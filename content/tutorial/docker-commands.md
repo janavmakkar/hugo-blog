@@ -1,20 +1,22 @@
 ---
-title: "Docker Commands"
+title: "Docker Commands 🐳"
 keywords: [docker ,cheatsheet]
-date: 2020-09-15T11:30:03+05:30
-# draft: true
-# defaultTheme: auto
-tags: ["first"]
+date: 2022-01-10T11:30:03+05:30
+draft: false
+defaultTheme: auto
+tags: ["docker","cheatsheet"]
 showToc: true
 # disableThemeToggle: true
 ShowPostNavLinks: true
 ShowBreadCrumbs: true
-# ShareButtons: [“linkedin”, “twitter”]
+ShareButtons: [“linkedin”, “twitter”]
 comments: true
+cover:
+    image: /docker.png 
+    alt: python
 
 ---
 
-## Docker Commands 🐳
 |S.No| Use Cases | Commands |
 |-----| -------- | ------- |
 |1. |See all images present in your local machine|```docker images```|

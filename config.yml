@@ -4,3 +4,35 @@ title: IT is fun
 theme: "papermod"
 
 googleAnalytics: G-T92C1K135S
+
+menu: 
+  main:
+    - identifier: how-to
+      name: How-To's🤔
+      url: /how-to/
+      weight: 10
+    - identifier: cheatsheet
+      name: Cheatsheets📜
+      url: /cheatsheet/
+      weight: 20
+    - identifier: tags
+      name: Tags🏷️
+      url: /tags/
+      weight: 30
+    - identifier: categories
+      name: Categories🧺
+      url: /categories/
+      weight: 40
+
+params:
+    homeInfoParams:
+        Title: Hi there 👋
+        Content: Welcome to Janav's blog
+
+    socialIcons: # optional
+        - name: "Linkedin"
+          url: "https://www.linkedin.com/in/janav-makkar-417871179/"
+        - name: "Github"
+          url: "https://github.com/janavmakkar"
+        - name: "Twitter"
+          url: "https://twitter.com/janav_makkar"

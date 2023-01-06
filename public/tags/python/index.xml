@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>python on IT is fun</title>
+    <link>http://janavmakkar.com/tags/python/</link>
+    <description>Recent content in python on IT is fun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Apr 2021 21:54:57 +0530</lastBuildDate><atom:link href="http://janavmakkar.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comprehensive Python Cheatsheet</title>
+      <link>http://janavmakkar.com/tutorial/cheatsheet/python-cheatsheet/</link>
+      <pubDate>Tue, 06 Apr 2021 21:54:57 +0530</pubDate>
+      
+      <guid>http://janavmakkar.com/tutorial/cheatsheet/python-cheatsheet/</guid>
+      <description>1. Collections: List , Dictionary , Set , Tuple , Range , Enumerate , Iterator , Generator .
+2. Types: Type , String , Regular_Exp , Format , Numbers , Combinatorics , Datetime .
+3. Syntax: Args , Inline , Import , Decorator , Class , Duck_Types , Enum , Exception .
+4. System: Exit , Print , Input , Command_Line_Arguments , Open , Path , OS_Commands .
+5. Data: JSON , Pickle , CSV , SQLite , Bytes , Struct , Array , Memory_View , Deque .</description>
+    </item>
+    
+  </channel>
+</rss>

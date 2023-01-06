@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>IT is fun</title>
-    <link>http://janavmakkar.com/</link>
-    <description>Recent content on IT is fun</description>
+    <title>cheatsheet on IT is fun</title>
+    <link>http://janavmakkar.com/tags/cheatsheet/</link>
+    <description>Recent content in cheatsheet on IT is fun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jan 2022 11:30:03 +0530</lastBuildDate><atom:link href="http://janavmakkar.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jan 2022 11:30:03 +0530</lastBuildDate><atom:link href="http://janavmakkar.com/tags/cheatsheet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker Commands 🐳</title>
       <link>http://janavmakkar.com/tutorial/docker-commands/</link>

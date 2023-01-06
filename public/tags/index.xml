@@ -6,13 +6,31 @@
     <description>Recent content in Tags on IT is fun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0530</lastBuildDate><atom:link href="http://janavmakkar.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jan 2022 11:30:03 +0530</lastBuildDate><atom:link href="http://janavmakkar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>first</title>
-      <link>http://janavmakkar.com/tags/first/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0530</pubDate>
+      <title>cheatsheet</title>
+      <link>http://janavmakkar.com/tags/cheatsheet/</link>
+      <pubDate>Mon, 10 Jan 2022 11:30:03 +0530</pubDate>
       
-      <guid>http://janavmakkar.com/tags/first/</guid>
+      <guid>http://janavmakkar.com/tags/cheatsheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>http://janavmakkar.com/tags/docker/</link>
+      <pubDate>Mon, 10 Jan 2022 11:30:03 +0530</pubDate>
+      
+      <guid>http://janavmakkar.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>http://janavmakkar.com/tags/python/</link>
+      <pubDate>Tue, 06 Apr 2021 21:54:57 +0530</pubDate>
+      
+      <guid>http://janavmakkar.com/tags/python/</guid>
       <description></description>
     </item>
     
