@@ -3,12 +3,10 @@ title: "Comprehensive Python Cheatsheet"
 date: 2021-04-06T21:54:57+05:30
 draft: false
 defaultTheme: auto
+categories: [cheatsheet]
 tags: ["python","cheatsheet"]
 showToc: true
 # disableThemeToggle: true
-ShowPostNavLinks: true
-ShowBreadCrumbs: true
-ShareButtons: [“linkedin”, “twitter”]
 comments: true
 cover:
     image: /anaconda2.jpg 

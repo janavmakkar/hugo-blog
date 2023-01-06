@@ -7,21 +7,26 @@ googleAnalytics: G-T92C1K135S
 
 menu: 
   main:
-    - identifier: how-to
-      name: How-To's🤔
-      url: /how-to/
+    # - identifier: how-to
+    #   name: How-To's🤔
+    #   url: /how-to/
+    #   weight: 10
+    # - identifier: cheatsheet
+    #   name: Cheatsheets📜
+    #   url: /cheatsheet/
+    #   weight: 20
+    - identifier: categories
+      name: Categories
+      url: /categories/
       weight: 10
-    - identifier: cheatsheet
-      name: Cheatsheets📜
-      url: /cheatsheet/
-      weight: 20
+      # - how-to's, cheatsheets, advice, problem-solving
+    - identifier: all-posts
+      name: All Posts
+      url: /all-posts/
+      weight: 30
     - identifier: tags
       name: Tags🏷️
       url: /tags/
-      weight: 30
-    - identifier: categories
-      name: Categories🧺
-      url: /categories/
       weight: 40
 
 params:
@@ -36,3 +41,17 @@ params:
           url: "https://github.com/janavmakkar"
         - name: "Twitter"
           url: "https://twitter.com/janav_makkar"
+    
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowShareButtons: [“linkedin”, “twitter”]
+    ShowReadingTime: true
+
+
+    assets:
+        favicon: /favicon/favicon.ico
+        favicon16x16:  /favicon/favicon-16x16.png
+        favicon32x32:  /favicon/favicon-32x32.png
+        apple_touch_icon:  /favicon/apple-touch-icon.png
+        # safari_pinned_tab:  /favicon/
+

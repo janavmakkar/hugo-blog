@@ -1,15 +1,14 @@
 ---
 title: "Docker Commands 🐳"
-keywords: [docker ,cheatsheet]
+keywords: ["docker" ,"cheatsheet"]
+categories: [cheatsheet]
 date: 2022-01-10T11:30:03+05:30
 draft: false
 defaultTheme: auto
 tags: ["docker","cheatsheet"]
 showToc: true
 # disableThemeToggle: true
-ShowPostNavLinks: true
-ShowBreadCrumbs: true
-ShareButtons: [“linkedin”, “twitter”]
+
 comments: true
 cover:
     image: /docker.png 
