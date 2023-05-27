@@ -9,7 +9,7 @@ tags: ["python", "cheatsheet"]
 showToc: true
 comments: true
 cover:
-  image: posts/intermediate-py(1).webp
+  image: posts/intermediate-py(1).png
   alt: python intermediate level
 ---
 
