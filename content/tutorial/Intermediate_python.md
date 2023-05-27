@@ -235,77 +235,77 @@ print(a23,a27,"\n")
 Ordered, Immutable, allows duplicates & multi data type
 
 ```python
-b1=("max",1,"janav",2,"makkar",3,True)
-b2="max",1,"janav",2,"makkar",3,True # still a tuple without ()
-print(type(b1),type(b2),"\n")
+    b1=("max",1,"janav",2,"makkar",3,True)
+    b2="max",1,"janav",2,"makkar",3,True # still a tuple without ()
+    print(type(b1),type(b2),"\n")
 
-print(" 0. COMMA IS IMPORTANT ")
-b3=("janav") # not a tuple , just a string
-print(type(b3))
-b4=("janav",) # tuple, comma is important
-print(type(b4),"\n" )
+    print(" 0. COMMA IS IMPORTANT ")
+    b3=("janav") # not a tuple , just a string
+    print(type(b3))
+    b4=("janav",) # tuple, comma is important
+    print(type(b4),"\n" )
 
-print(" 1. TUPLE CONSTRUCTOR")
-b5=tuple(["janav",1,"makkar",2,True]) # tuple() is a constructor
-print(b5,"\n")
+    print(" 1. TUPLE CONSTRUCTOR")
+    b5=tuple(["janav",1,"makkar",2,True]) # tuple() is a constructor
+    print(b5,"\n")
 
-print(" 2. TUPLE UNPACKING " )
-b6=("janav",1,"makkar",2,True)
-name,rollno,surname,age,married=b6
-print(name)
-print(rollno)
-print(surname,"\n")
+    print(" 2. TUPLE UNPACKING " )
+    b6=("janav",1,"makkar",2,True)
+    name,rollno,surname,age,married=b6
+    print(name)
+    print(rollno)
+    print(surname,"\n")
 
-b9=(0,1,2,3,4,5,6,7,8,9,10)
-a,*b,c=b9
-print(a) # 0
-print(b) # [1,2,3,4,5,6,7,8,9]
-print(c,"\n") # 10
+    b9=(0,1,2,3,4,5,6,7,8,9,10)
+    a,*b,c=b9
+    print(a) # 0
+    print(b) # [1,2,3,4,5,6,7,8,9]
+    print(c,"\n") # 10
 
-print(" 3. ACCESSING & SLICING")
-print(b6[0])
-print(b6[1])
-print(b6[-1],"\n")
-# Slicing
-print(b6[0:3])
-print(b6[3:])
-print(b6[:3])
-print(b6[1:-2])
-print(b6[:])
-print(b6[::2]) # step slicing
-print(b6[::-1])
-print(b6[-1:1:-1],"\n")
+    print(" 3. ACCESSING & SLICING")
+    print(b6[0])
+    print(b6[1])
+    print(b6[-1],"\n")
+    # Slicing
+    print(b6[0:3])
+    print(b6[3:])
+    print(b6[:3])
+    print(b6[1:-2])
+    print(b6[:])
+    print(b6[::2]) # step slicing
+    print(b6[::-1])
+    print(b6[-1:1:-1],"\n")
 
-print(" 4. MEMEBERSHIP OPERATOR ")
-for i in b6:
-    print(i)
+    print(" 4. MEMEBERSHIP OPERATOR ")
+    for i in b6:
+        print(i)
 
-print(1 in b6,"\n")
+    print(1 in b6,"\n")
 
-print(" 5. BUILT-IN FUNCTIONS/METHODS ") # .count(), .index()
-b7=(tuple("apple")) # b7=("a","p","p","l","e")
-count=b7.count('p') # .count() - returns number of times value in the tuple
-index=b7.index('p') # .index() - returns index of first occurence of the given value
-print(b7)
-print(count)
-print(index,"\n")
+    print(" 5. BUILT-IN FUNCTIONS/METHODS ") # .count(), .index()
+    b7=(tuple("apple")) # b7=("a","p","p","l","e")
+    count=b7.count('p') # .count() - returns number of times value in the tuple
+    index=b7.index('p') # .index() - returns index of first occurence of the given value
+    print(b7)
+    print(count)
+    print(index,"\n")
 
-print(" 6. CONVERTING TUPLE TO LIST ")
-b8=list(b6)
-print(b8)
-print(type(b8),type(b6),"\n")
+    print(" 6. CONVERTING TUPLE TO LIST ")
+    b8=list(b6)
+    print(b8)
+    print(type(b8),type(b6),"\n")
 
-print("7. TUPLE MORE EFFICIENT THAN LIST")
-import sys
-a28=["janav",1,"makkar",2,True]
-a29=("janav",1,"makkar",2,True)
-print(sys.getsizeof(a28),"bytes","List") # getsizeof(*) - returns size of the object in bytes
-print(sys.getsizeof(a29),"bytes", "Tuple", "\n")
+    print("7. TUPLE MORE EFFICIENT THAN LIST")
+    import sys
+    a28=["janav",1,"makkar",2,True]
+    a29=("janav",1,"makkar",2,True)
+    print(sys.getsizeof(a28),"bytes","List") # getsizeof(*) - returns size of the object in bytes
+    print(sys.getsizeof(a29),"bytes", "Tuple", "\n")
 
-import timeit
-print(timeit.timeit(stmt="[1,2,3,4,5,6,7,8,9]",number=1000000),"List")
-# timeit.timeit(stmt="*",number=*) - returns time taken to execute the statement
-print(timeit.timeit(stmt="(1,2,3,4,5,6,7,8,9)",number=1000000),"Tuple","\n")
+    import timeit
+    print(timeit.timeit(stmt="[1,2,3,4,5,6,7,8,9]",number=1000000),"List")
+    # timeit.timeit(stmt="*",number=*) - returns time taken to execute the statement
+    print(timeit.timeit(stmt="(1,2,3,4,5,6,7,8,9)",number=1000000),"Tuple","\n")
 ```
 
     <class 'tuple'> <class 'tuple'>
