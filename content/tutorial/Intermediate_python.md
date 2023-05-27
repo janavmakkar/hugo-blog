@@ -308,6 +308,7 @@ Ordered, Immutable, allows duplicates & multi data type
     print(timeit.timeit(stmt="(1,2,3,4,5,6,7,8,9)",number=1000000),"Tuple","\n")
 ```
 
+
     <class 'tuple'> <class 'tuple'>
 
      0. COMMA IS IMPORTANT
