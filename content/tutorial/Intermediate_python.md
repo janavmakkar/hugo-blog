@@ -5,7 +5,7 @@ categories: [cheatsheet]
 date: 2023-26-05T21:30:03+05:30
 draft: false
 defaultTheme: auto
-tags: ["python", "cheatsheet"]
+tags: ["python", "cheatsheet", "intermediate"]
 showToc: true
 comments: true
 cover:
