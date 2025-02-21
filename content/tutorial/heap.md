@@ -19,7 +19,7 @@ tags: ["DSA", "python", "Heap", "Tree", "Binary Tree", "Array", "Heap Sort"]
 showToc: true
 comments: true
 cover:
-  image: posts/otter_basic_dsa.jpeg
+  image: posts/otter_basic_dsa.jpg
   alt: otter_basic_dsa
 ---
 
