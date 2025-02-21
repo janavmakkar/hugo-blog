@@ -211,4 +211,4 @@ Illustration:
     +-------------------+
 ```
 
-These are the main concepts of Object-Oriented Programming as implemented in Python. Each concept builds on the others to create a powerful paradigm for organizing and structuring code.
+

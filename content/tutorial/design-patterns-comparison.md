@@ -288,4 +288,4 @@
   * Adding new ConcreteElement classes is hard
   * Can result in a loss of encapsulation
 
-This numbered bullet-point comparison provides a concise yet comprehensive overview of all 23 classic design patterns, their purposes, applicability, advantages, and potential drawbacks.
+
