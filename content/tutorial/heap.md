@@ -12,7 +12,6 @@ keywords:
     "Heap Sort",
   ]
 categories: [DSA]
-date: 2025-02-20T12:30:03+05:30
 draft: false
 defaultTheme: auto
 tags: ["DSA", "python", "Heap", "Tree", "Binary Tree", "Array", "Heap Sort"]
@@ -27,7 +26,6 @@ cover:
 
 - Min-Heap is a complete binary tree where the parent node is always smaller than or equal to its child nodes.
 - Since a Min Heap is a Complete Binary Tree, it is commonly represented using an array. In an array representation:
-
 - - The root element is stored at Arr[0].
 - - For any i-th node (at Arr[i]):
 - - Parent Node → Arr[(i - 1) / 2]
