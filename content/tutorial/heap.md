@@ -1,4 +1,5 @@
 ---
+date: 2025-02-13T01:30:03+05:30
 title: "Min Heap Implementation from Scratch | #DSA-450"
 keywords:
   [
@@ -50,11 +51,6 @@ cover:
 A = [5, 10, 15, 30]
 B = [13, 16, 31, 41, 51, 100, 41]
 ```
-
-    <>:1: SyntaxWarning: invalid escape sequence '\ '
-    <>:1: SyntaxWarning: invalid escape sequence '\ '
-    C:\Users\ASUS\AppData\Local\Temp\ipykernel_33824\711618232.py:1: SyntaxWarning: invalid escape sequence '\ '
-      '''
 
 ```python
 # Implementation of Min Heap in Python
