@@ -1,6 +1,5 @@
 ---
 title: "Comprehensive Python Cheatsheet 🐍"
-date: 2021-04-06T21:54:57+05:30
 draft: false
 defaultTheme: auto
 categories: [cheatsheet]

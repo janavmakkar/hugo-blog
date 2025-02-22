@@ -2,7 +2,6 @@
 title: "Intermediate Python Codeblocks 🐍"
 keywords: ["python", "cheatsheet"]
 categories: [cheatsheet]
-date: 2023-26-05T21:30:03+05:30
 draft: false
 defaultTheme: auto
 tags: ["python", "cheatsheet", "intermediate"]

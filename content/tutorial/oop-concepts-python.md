@@ -2,7 +2,6 @@
 title: "OOPs - 1 | Basic Concepts 📦"
 keywords: ["OOPs" ,"python"]
 categories: [OOPs]
-date: 2024-09-25T11:30:03+05:30
 draft: false
 defaultTheme: auto
 tags: ["OOPs" ,"python"]

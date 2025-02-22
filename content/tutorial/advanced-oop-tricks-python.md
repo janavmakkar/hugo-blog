@@ -2,7 +2,6 @@
 title: "OOPs - 2 | Advanced Tricks in OOPs 📦"
 keywords: ["OOPs" ,"python"]
 categories: [OOPs]
-date: 2024-09-25T12:30:03+05:30
 draft: false
 defaultTheme: auto
 tags: ["OOPs" ,"python"]
@@ -11,9 +10,7 @@ comments: true
 cover:
     image: posts/oops1.jpeg 
     alt: oops1
-
 ---
-
 ## 1. Property Decorators
 
 Properties allow you to use methods like attributes, providing a clean way to implement getters, setters, and deleters.
@@ -213,5 +210,3 @@ with File('example.txt', 'w') as f:
     f.write('Hello, World!')
 # File is automatically closed after the with block
 ```
-
-

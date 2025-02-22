@@ -2,7 +2,6 @@
 title: " Essentials | Design Patterns Gist 🤌🤌"
 keywords: ["design-patterns", "python"]
 categories: [design-patterns]
-date: 2024-09-23T01:30:03+05:30
 draft: false
 defaultTheme: auto
 tags: ["design-patterns", "python"]
