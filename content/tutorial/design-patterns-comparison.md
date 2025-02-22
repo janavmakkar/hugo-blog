@@ -1,5 +1,4 @@
 ---
-date: 2024-09-23
 title: " Comparison | Design Patterns 🏗️"
 keywords: ["design-patterns", "python"]
 categories: [design-patterns]
