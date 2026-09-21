@@ -1,0 +1,16 @@
+# Hugo build output
+/public/
+/resources/
+.hugo_build.lock
+
+# DSA bot: machine state and secrets, never the generated content
+leetcode/.venv/
+leetcode/.env
+leetcode/dsa.db
+leetcode/dsa.db-wal
+leetcode/dsa.db-shm
+__pycache__/
+*.pyc
+
+# Jupyter scratch
+.ipynb_checkpoints/

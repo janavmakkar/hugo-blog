@@ -1,0 +1,2 @@
+# Bot runtime. Install into leetcode/.venv (setup.sh does this for you).
+python-telegram-bot[job-queue]==21.9
